@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="cyan">
     <form action="Login" method="post">
-    Enter Username :<input id="name" type="text" name="name"><br/><br/>
+    Enter UserName :<input id="name" type="text" name="name"><br/><br/>
     Enter Password : <input id="password" type="password"name="password"><br/><br/>
     <input type="submit" value="login" id="login">
     </form>
